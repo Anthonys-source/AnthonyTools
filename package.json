@@ -1,10 +1,15 @@
 {
-  "name": "com.anthonycookie.anthonystools",
-  "version": "0.0.1",
-  "displayName": "Anthony's Tools",
-  "description": "Cookies",
-  "unity": "2019.3",
-  "author": {
-    "name": "Anthony"
-  }
+    "name": "com.cookiekat.anthonystools",
+    "version": "0.0.1",
+    "displayName": "Anthony's Tools",
+    "description": "Proyect creation tools",
+    "unity": "2019.3",
+    "author": {
+        "name": "Anthony"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Anthonys-source/AnthonyTools",
+        "revision": ""
+    }
 }
