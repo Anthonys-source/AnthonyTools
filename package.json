@@ -1,0 +1,10 @@
+{
+  "name": "com.anthonycookie.anthonystools",
+  "version": "0.0.1",
+  "displayName": "Anthony's Tools",
+  "description": "Cookies",
+  "unity": "2019.3",
+  "author": {
+    "name": "Anthony"
+  }
+}
